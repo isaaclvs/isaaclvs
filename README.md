@@ -2,6 +2,8 @@ Hi there, I'm Isaac 👋
 <br>
 I'm a Software Developer living in Piauí, Brazil.
 <br>
-👯 I’m learning Ruby on Rails
+🚀 I'm currently just studying.
+<br>
+🧠 I'm studying Ruby on Rails, HTML, CSS, Javascript and English.
 <br>
 📫 How to reach me: isaacfelipee3@gmail.com
