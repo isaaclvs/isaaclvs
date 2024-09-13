@@ -1,6 +1,6 @@
 Hi there, I'm Isaac 👋
 <br>
-I'm a Software Developer living in Piauí, Brazil.
+I'm a Software Developer living in Brazil.
 <br>
 🚀 I'm currently just studying.
 <br>
