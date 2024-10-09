@@ -3,7 +3,6 @@
 
 <ul>
 <li>💻 Backend Developer</li>
-<li>📖 Studying <b>Java</b>, <b>Ruby</b>, and <b>Javascript</b></li>
 </ul>
 
 
