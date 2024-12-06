@@ -2,7 +2,7 @@
 <h2>Welcome to my GitHub!</h2>
 
 <ul>
-<li>💻 Backend Developer</li>
+<li>💻 Software Engineer</li>
 </ul>
 
 
