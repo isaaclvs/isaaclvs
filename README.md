@@ -1,32 +1,49 @@
 # Hi, I'm Isaac Alves
 
-I'm a Software Engineer with a strong background in web development, specializing in building scalable back-end systems and modern front-end interfaces. I thrive in collaborative environments and am a self-learner, always exploring new tools and techniques to enhance my skills.
+🚀 **Passionate Software Engineer** | 🎯 Focused on Web Development | 🌍 Based in Brazil
 
-## About Me
-- **Previous Experience**: Software Developer at Fetchly Labs (2024)
-- **Education**: Pursuing Bachelor's in Computer Science, Federal Institute of Piauí (Graduation: 2026)
+I specialize in crafting scalable backend systems and user-friendly front-end interfaces. My goal is to deliver efficient, impactful solutions that align with business needs and provide exceptional user experiences. I'm a proactive learner and thrive in collaborative environments where I can contribute and grow.
 
-## Skills & Tools
-- **Languages**: Ruby, JavaScript (HTML/CSS), Python, SQL, Bash
-- **Frameworks**: Ruby on Rails, Vue.js, Tailwind CSS, Flask, Node.js
-- **Tools**: Docker, SQL, Git, Insomnia
+---
 
-## Highlights
-- Improved web application performance using Ruby on Rails and enhanced user interfaces with Vue.js and Tailwind CSS, leading to a 20% decrease in bounce rate
-- Developed scalable backend systems, boosting website speed by 30% and resolving critical issues under tight deadlines
-- Created a robust URL Shortener application, achieving a 50% reduction in page load times and increasing user engagement
+## 📌 **About Me**
 
-## Topics of Interest
-- Web development (back-end and full-stack)
-- RESTful APIs and MVC architecture
+- 🎓 **Current Role**: Software Engineer Intern at Federal Institute of Piauí (2023 - 2024)
+- 💼 **Previous Experience**: Software Developer at Fetchly Labs (2024)
+- 📚 **Education**: Pursuing Bachelor's in Computer Science, Federal Institute of Piauí (Graduation: 2026)
+
+---
+
+## 💻 **Skills & Tools**
+
+- **Programming Languages**: Ruby, JavaScript (HTML/CSS), Python, SQL, Bash
+- **Frameworks & Libraries**: Ruby on Rails, Vue.js, Tailwind CSS, Flask, Node.js
+- **Development Tools**: Docker, Git (GitHub/GitLab), Insomnia, SQL Management
+
+---
+## 🌟 **Professional Highlights**
+
+- **Boosted Performance**: Enhanced application performance by 20% through backend optimizations with Ruby on Rails and frontend improvements with Vue.js and Tailwind CSS.
+- **Streamlined Backend Systems**: Achieved a 30% increase in website speed by developing scalable backend systems during my internship.
+- **Developed Medical Office Management System**: Designed and implemented a Ruby on Rails-based patient management system with role-based access (receptionist and doctor portals), authentication via Devise, and a responsive interface using Tailwind CSS.
+
+---
+## 🔍 **Interests & Focus Areas**
+
+- Developing robust backend systems and full-stack applications
+- Designing RESTful APIs and adhering to MVC architecture
 - Performance optimization and database management
-- Agile practices and clean code principles
+- Agile development practices and clean code principles
 
-## Contact
-- **Email**: dev.isaaclvs@gmail.com
-- **Phone**: +55 86 99980-4586
-- **LinkedIn**: [Isaac Alves](https://linkedin.com/in/isaaclvs)
-- **GitHub**: [Isaac Alves](https://github.com/isaaclvs)
+---
 
-Feel free to explore my repositories and reach out for collaboration opportunities!
+## 📞 **Get in Touch**
 
+- 📧 **Email**: [dev.isaaclvs@gmail.com](mailto:dev.isaaclvs@gmail.com)
+- 📱 **Phone**: +55 86 99980-4586
+- 💼 **LinkedIn**: [Isaac Alves](https://linkedin.com/in/isaaclvs)
+- 💻 **GitHub**: [Isaac Alves](https://github.com/isaaclvs)
+
+---
+
+🎯 **Let’s build something great together!** Explore my repositories, and feel free to reach out for collaboration or opportunities.
