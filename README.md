@@ -8,7 +8,6 @@ I specialize in crafting scalable backend systems and user-friendly front-end in
 
 ## 📌 **About Me**
 
-- 🎓 **Current Role**: Software Engineer Intern at Federal Institute of Piauí (2023 - 2024)
 - 💼 **Previous Experience**: Software Developer at Fetchly Labs (2024)
 - 📚 **Education**: Pursuing Bachelor's in Computer Science, Federal Institute of Piauí (Graduation: 2026)
 
