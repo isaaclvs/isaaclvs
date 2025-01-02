@@ -15,16 +15,30 @@ I specialize in crafting scalable backend systems and user-friendly front-end in
 
 ## 💻 **Skills & Tools**
 
-- **Programming Languages**: Ruby, JavaScript (HTML/CSS), Python, SQL, Bash
-- **Frameworks & Libraries**: Ruby on Rails, Vue.js, Tailwind CSS, Flask, Node.js
-- **Development Tools**: Docker, Git (GitHub/GitLab), Insomnia, SQL Management
-
----
-## 🌟 **Professional Highlights**
-
-- **Boosted Performance**: Enhanced application performance by 20% through backend optimizations with Ruby on Rails and frontend improvements with Vue.js and Tailwind CSS.
-- **Streamlined Backend Systems**: Achieved a 30% increase in website speed by developing scalable backend systems during my internship.
-- **Developed Medical Office Management System**: Designed and implemented a Ruby on Rails-based patient management system with role-based access (receptionist and doctor portals), authentication via Devise, and a responsive interface using Tailwind CSS.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+</div>
 
 ---
 ## 🔍 **Interests & Focus Areas**
@@ -38,10 +52,20 @@ I specialize in crafting scalable backend systems and user-friendly front-end in
 
 ## 📞 **Get in Touch**
 
-- 📧 **Email**: [dev.isaaclvs@gmail.com](mailto:dev.isaaclvs@gmail.com)
-- 📱 **Phone**: +55 86 99980-4586
-- 💼 **LinkedIn**: [Isaac Alves](https://linkedin.com/in/isaaclvs)
-- 💻 **GitHub**: [Isaac Alves](https://github.com/isaaclvs)
+<div align="left">
+  <a href="https://linkedin.com/in/isaaclvs" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
+  </a>
+  <a href="mailto:dev.isaaclvs@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
+  </a>
+  <a href="https://wa.me/5586999804586" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
+  </a>
+  <a href="https://t.me/isaaclvs" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
+  </a>
+</div>
 
 ---
 
