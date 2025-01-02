@@ -53,7 +53,7 @@ I specialize in crafting scalable backend systems and user-friendly front-end in
 ## 📞 **Get in Touch**
 
 <div align="left">
-  <a href="https://linkedin.com/in/isaaclvs" target="_blank">
+  <a href="https://linkedin.com/in/isaaclvs" target="_blank" rel="noopener noreferrer">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
   <a href="mailto:dev.isaaclvs@gmail.com" target="_blank">
