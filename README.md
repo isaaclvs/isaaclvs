@@ -8,6 +8,7 @@ I specialize in crafting scalable backend systems and user-friendly front-end in
 
 ## 📌 **About Me**
 
+- 💼 **Current Experience**: Software Engineer at Big Data Health (2025 - Present)
 - 💼 **Previous Experience**: Software Developer at Fetchly Labs (2024)
 - 📚 **Education**: Pursuing Bachelor's in Computer Science, Federal Institute of Piauí (Graduation: 2026)
 
