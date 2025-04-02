@@ -2,15 +2,15 @@
 
 🚀 **Passionate Software Engineer** | 🎯 Focused on Web Development | 🌍 Based in Brazil
 
-I specialize in crafting scalable backend systems and user-friendly front-end interfaces. My goal is to deliver efficient, impactful solutions that align with business needs and provide exceptional user experiences. I'm a proactive learner and thrive in collaborative environments where I can contribute and grow.
+I specialize in building scalable backend systems and enhancing user-friendly front-end experiences. My expertise lies in delivering efficient, high-quality solutions that align with business needs while optimizing performance and reliability. I'm a proactive learner who thrives in collaborative environments, always seeking to improve and innovate.
 
 ---
 
 ## 📌 **About Me**
 
 - 💼 **Current Experience**: Software Engineer at Big Data Health (2025 - Present)
-- 💼 **Previous Experience**: Software Developer at Fetchly Labs (2024)
-- 📚 **Education**: Pursuing Bachelor's in Computer Science, Federal Institute of Piauí (Graduation: 2026)
+- 💼 **Previous Experience**: Software Engineer at Fetchly Labs (2024), Software Engineer Intern at Federal Institute of Piauí (2022 - 2023)
+- 📚 **Education**: Bachelor's in Software Engineering at Unintese Educational Center (2024), Technician in System Development at Federal Institute of Piauí (2023)
 
 ---
 
@@ -21,33 +21,35 @@ I specialize in crafting scalable backend systems and user-friendly front-end in
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
 </div>
 
 ---
 ## 🔍 **Interests & Focus Areas**
 
-- Developing robust backend systems and full-stack applications
-- Designing RESTful APIs and adhering to MVC architecture
+- Scalable backend development with Ruby on Rails
+- API design and integration (REST & Webhooks)
 - Performance optimization and database management
-- Agile development practices and clean code principles
+- Cloud deployment and containerized applications (Docker, Kubernetes)
+- Frontend development with Vue.js and React.js
 
 ---
 
@@ -70,4 +72,5 @@ I specialize in crafting scalable backend systems and user-friendly front-end in
 
 ---
 
-🎯 **Let’s build something great together!** Explore my repositories, and feel free to reach out for collaboration or opportunities.
+🎯 **Let’s build something great together!** Feel free to explore my repositories and reach out for collaborations or opportunities.
+
