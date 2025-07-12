@@ -1,76 +1,42 @@
-# Hi, I'm Isaac Alves
+# 👋 Hi, I'm Isaac Alves
 
-🚀 **Passionate Software Engineer** | 🎯 Focused on Web Development | 🌍 Based in Brazil
-
-I specialize in building scalable backend systems and enhancing user-friendly front-end experiences. My expertise lies in delivering efficient, high-quality solutions that align with business needs while optimizing performance and reliability. I'm a proactive learner who thrives in collaborative environments, always seeking to improve and innovate.
+I'm a backend developer focused on building scalable APIs, improving legacy systems, and automating infrastructure. I specialize in Ruby on Rails, PostgreSQL, Docker and CI/CD workflows. Open to remote opportunities.
 
 ---
 
-## 📌 **About Me**
+## 🧑‍💻 Experience
 
-- 💼 **Current Experience**: Software Engineer at Big Data Health (2025 - Present)
-- 💼 **Previous Experience**: Software Engineer at Fetchly Labs (2024), Software Engineer Intern at Federal Institute of Piauí (2022 - 2023)
-- 📚 **Education**: Bachelor's in Software Engineering at Unintese Educational Center (2024), Technician in System Development at Federal Institute of Piauí (2023)
+**Software Engineer – Big Data Health** *(Jan 2025 – Present)*  
+- Maintained and refactored legacy Rails 4.2 codebases  
+- Improved test coverage and deployed via Kubernetes  
+- Helped manage cloud infrastructure (Azure)  
+**Stack:** Ruby on Rails, PostgreSQL, Docker, K8s, GitHub Actions
 
----
+**Software Engineer – Fetchly Labs (USA)** *(May 2023 – Dec 2024)*  
+- Developed payment systems with JWT, RBAC, and external APIs  
+- Built CI/CD pipelines and background jobs using Sidekiq  
+**Stack:** Ruby on Rails, Sidekiq, Redis, PostgreSQL, Docker
 
-## 💻 **Skills & Tools**
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" height="40" alt="rails logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-</div>
-
----
-## 🔍 **Interests & Focus Areas**
-
-- Scalable backend development with Ruby on Rails
-- API design and integration (REST & Webhooks)
-- Performance optimization and database management
-- Cloud deployment and containerized applications (Docker, Kubernetes)
-- Frontend development with Vue.js and React.js
+**Software Engineer Intern – IFPI** *(Jun 2022 – Jun 2023)*  
+- Supported infrastructure and internal tooling  
+- Delivered automation scripts and maintenance tasks  
+**Stack:** Shell, Linux, Ruby, Git
 
 ---
 
-## 📞 **Get in Touch**
+## ⚙️ Preferred Tech
 
-<div align="left">
-  <a href="https://linkedin.com/in/isaaclvs" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
-  </a>
-  <a href="mailto:dev.isaaclvs@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
-  </a>
-  <a href="https://wa.me/5586999804586" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo" />
-  </a>
-  <a href="https://t.me/isaaclvs" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo" />
-  </a>
-</div>
+Ruby · Rails · PostgreSQL · Docker · GitHub Actions  
+Sidekiq · Redis · Linux · Tailwind CSS · Vue.js · CI/CD
 
 ---
 
-🎯 **Let’s build something great together!** Feel free to explore my repositories and reach out for collaborations or opportunities.
+## 📫 Contact
 
+[LinkedIn](https://linkedin.com/in/isaaclvs)  
+[Portfolio](https://isaaclvs.github.io)  
+[Resume](https://drive.google.com/file/d/1dL9ULStdekgvmEqCDQqOP_SK2lP8B4tB/view)
+
+---
+
+_Thanks for stopping by! Always open to remote roles and collaboration._
