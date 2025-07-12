@@ -1,42 +1,21 @@
-# 👋 Hi, I'm Isaac Alves
+# Hi, I'm Isaac Alves 🇧🇷
 
-I'm a backend developer focused on building scalable APIs, improving legacy systems, and automating infrastructure. I specialize in Ruby on Rails, PostgreSQL, Docker and CI/CD workflows. Open to remote opportunities.
+A Brazilian Software Engineer focused on backend development, passionate about clean APIs, automation, and building systems that last. I specialize in Ruby on Rails and enjoy working with legacy code, scalable infrastructure, and well-tested codebases.
 
----
+🛠️ **Experienced with:**  
+Ruby · Rails · PostgreSQL · Sidekiq · Docker · Kubernetes · GitHub Actions · Redis · Tailwind CSS
 
-## 🧑‍💻 Experience
+🚀 **Currently working with:**  
+Rails 4.2 on legacy systems, CI/CD, and containerized environments using Docker and K8s.
 
-**Software Engineer – Big Data Health** *(Jan 2025 – Present)*  
-- Maintained and refactored legacy Rails 4.2 codebases  
-- Improved test coverage and deployed via Kubernetes  
-- Helped manage cloud infrastructure (Azure)  
-**Stack:** Ruby on Rails, PostgreSQL, Docker, K8s, GitHub Actions
+📍 **Based in:** Brazil (working remotely)  
+📚 **Currently exploring:** Hotwire, Linux, and backend architecture patterns
 
-**Software Engineer – Fetchly Labs (USA)** *(May 2023 – Dec 2024)*  
-- Developed payment systems with JWT, RBAC, and external APIs  
-- Built CI/CD pipelines and background jobs using Sidekiq  
-**Stack:** Ruby on Rails, Sidekiq, Redis, PostgreSQL, Docker
+🧠 **A bit about my journey:**  
+I started in infrastructure and automation, migrated into web development with Ruby, and today I build APIs, work with production systems, and support real users. I'm now aiming for international remote opportunities where I can grow, contribute, and solve meaningful problems.
 
-**Software Engineer Intern – IFPI** *(Jun 2022 – Jun 2023)*  
-- Supported infrastructure and internal tooling  
-- Delivered automation scripts and maintenance tasks  
-**Stack:** Shell, Linux, Ruby, Git
+📫 **Find me here:**  
+[LinkedIn](https://linkedin.com/in/isaaclvs) · [Portfolio](https://isaaclvs.github.io) · [Resume (PDF)](https://drive.google.com/file/d/1aYnYtztYiWkEMSzhxC_iAVxr2WpFyZTI/view)
 
 ---
-
-## ⚙️ Preferred Tech
-
-Ruby · Rails · PostgreSQL · Docker · GitHub Actions  
-Sidekiq · Redis · Linux · Tailwind CSS · Vue.js · CI/CD
-
----
-
-## 📫 Contact
-
-[LinkedIn](https://linkedin.com/in/isaaclvs)  
-[Portfolio](https://isaaclvs.github.io)  
-[Resume](https://drive.google.com/file/d/1dL9ULStdekgvmEqCDQqOP_SK2lP8B4tB/view)
-
----
-
-_Thanks for stopping by! Always open to remote roles and collaboration._
+_Always open to learning, collaborating, and building great software—wherever the team is._
