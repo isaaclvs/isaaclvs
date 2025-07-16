@@ -15,7 +15,7 @@ Rails 4.2 on legacy systems, CI/CD, and containerized environments using Docker 
 I started in infrastructure and automation, migrated into web development with Ruby, and today I build APIs, work with production systems, and support real users. I'm now aiming for international remote opportunities where I can grow, contribute, and solve meaningful problems.
 
 📫 **Find me here:**  
-[LinkedIn](https://linkedin.com/in/isaaclvs) · [Portfolio](https://isaaclvs.github.io) · [Resume (PDF)](https://drive.google.com/file/d/1aYnYtztYiWkEMSzhxC_iAVxr2WpFyZTI/view)
+[LinkedIn](https://linkedin.com/in/isaaclvs) · [Portfolio](https://isaaclvs.github.io) · [Resume (PDF)](https://drive.google.com/file/d/1AgudvbdcNBSyUE2WCRQl_F_hlJec-CCz/view?usp=sharing)
 
 ---
 _Always open to learning, collaborating, and building great software—wherever the team is._
